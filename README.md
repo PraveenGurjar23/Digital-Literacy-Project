@@ -28,17 +28,6 @@ I hope to learn how to build real-world software projects and develop strong pro
 
 ---
 
-## Student Details
-| Field | Details |
-|-------|---------|
-| Name | Praveen Gurjar |
-| Registration No. | 25BCG10032 |
-| Branch | CSE (Gaming Technology) |
-| Year | First Year B.Tech |
-| Course Code | CSE0001 |
-
----
-
 ## Repository Structure
 ```
 digital-literacy-project/
